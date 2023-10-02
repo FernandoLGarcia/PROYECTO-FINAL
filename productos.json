@@ -1,0 +1,51 @@
+[
+  {
+    "id": "guitarra1",
+    "nombre": "Fender stratocaster",
+    "imagen": "./img/fender-strato1.jpg",
+    "descripcion": "Fender stratocaster, Single coins,Puente fijo, USA",
+    "descripcionLarga": "Cuerpo solido de Fresno,Cuello de arce atornillado al cuerpo de la misma, posee mastil  de perfil delgado y comodo,Puente de tremolo sincronico que permite cambiar la afinacion de las cuerdas de una manera suave y expresiva para un mejor efecto Vibrato, Esta guitarra es muy Versatil y es una de las mejores opciones si estas empezando a tocar guitarra o si queres un sonido claro y cristalino, se utiliza en varios generos como el Blues,rock,country, hard rock , y jazz. ",
+    "precio": 700000,
+    "estrellas": "⭐⭐⭐⭐⭐"
+  },
+
+  {
+    "id": "guitarra2",
+    "nombre": "Gibson lespaul",
+    "imagen": "./img/gibson-lespaul2.jpg",
+    "descripcion": "Gibson Les Paul, Humbucker, puente fijo,USA",
+    "descripcionLarga": "Cuerpo de caoba, tapa de arce tallado, el cuello es de caoba con escala de 24.75, diapason de palisandro, 22 trastes Jumbo mediano,ProHumbucker2 de cuello de bobina dividida, ProHumbucker3 de puente con bobina dividida,clavijas grover, Esta guitarra esta Pensada para Tocar diversos Estilos pero generalmente se utiliza para Hard Rock y blues.",
+    "precio": 750000,
+    "estrellas": "⭐⭐⭐⭐⭐"
+  },
+
+  {
+    "id": "guitarra3",
+    "nombre": "Squier telecaster",
+    "imagen": "./img/squier-telecaster3.jpg",
+    "descripcion": "Squier Telecaster, Single coins, Puente fijo, USA ",
+    "descripcionLarga": "Diseño clasico de cuerpo solido,mastil de palo de rosa ,Pastilla de bobina simple en el puente, Pastilla EMG de bobina simple en el mastil, las mismas proporcionan un sonido brillante y nitido,su uso es diverso y se adapta a varios estilos como el hard rock,Blues, Rock, o Blues.",
+    "precio": 550000,
+    "estrellas": "⭐⭐⭐⭐"
+  },
+
+  {
+    "id": "guitarra4",
+    "nombre": "Epiphone explorer",
+    "imagen": "./img/epiphone-explorer4.jpg",
+    "descripcion": "Epiphone Explorer,Humbucker,Puente fijo,USA ",
+    "descripcionLarga": "Diseño unico y futurista,cuerpo asimetrico, pastillas Humbucker Di Marzio, las mismas proporcionan un potente sonido y menos ruido,Mastil comodo de arce, puente fijo, esta guitarra con su diseño y estilo es utilizada mayormente para generos como el Metal y Rock, pero tambien se usa en hard rock y/o derivados .",
+    "precio": 600000,
+    "estrellas": "⭐⭐⭐⭐"
+  },
+
+  {
+    "id": "guitarra5",
+    "nombre": "Ibanez rg350",
+    "imagen": "./img/ibanez-rg3505.jpg",
+    "descripcion": "Ibanez RG350, Humbucker & Single Coins,Puente Flotante, Corea",
+    "descripcionLarga": "Cuerpo y diseño de RG350 de tilo, Mastil atornillado al cuerpo, Diapason de palo de rosa con perfil delgado y rapido,Pastillas Humbucker Di Marzio en Puente y Mastil, Pastilla Simple en el tono central ,Puente flotante de doble bloque Ibanez Edge III ,este tipo de puentes permite un vibrato extremo, esta guitarra es una de las mas versatiles ya que por su combinacion de pastillas se puede adaptar facilmente a distintos estilos incluyendo el Pop,Rock,Metal; Hard rock,Jazz y la mayoria de estilos musicales.",
+    "precio": 900000,
+    "estrellas": "⭐⭐⭐⭐⭐"
+  }
+]
